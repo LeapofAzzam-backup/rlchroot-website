@@ -1,3 +1,5 @@
 title: RLChroot
 description: Install Linux Distro without root, giving an LXC-Like Interface for Android, Linux and Non-Privileged Users
 theme: jekyll-theme-minimal
+github:
+   repository_url: https://github.com/WMCB-Tech/rlchroot
